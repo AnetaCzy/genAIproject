@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+langchain
+langchain-openai
+pinecone-client
+arxiv
+PyPDF2
+python-dotenv
+tqdm
+requests
+openai
+pydantic
+beautifulsoup4
+lxml
