@@ -12,3 +12,12 @@ openai
 pydantic
 beautifulsoup4
 lxml
+requests
+os
+dotenv
+pinecone
+langchain_openai
+langchain
+requests
+PyPDF2
+io
