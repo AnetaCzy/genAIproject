@@ -1,0 +1,34 @@
+[
+  {
+    "type": "HumanMessage",
+    "content": "what is a cloud"
+  },
+  {
+    "type": "SystemMessage",
+    "content": "I don't have enough information to answer that."
+  },
+  {
+    "type": "HumanMessage",
+    "content": "what is a cloud?"
+  },
+  {
+    "type": "SystemMessage",
+    "content": "I don't have enough information to answer that."
+  },
+  {
+    "type": "HumanMessage",
+    "content": "e"
+  },
+  {
+    "type": "SystemMessage",
+    "content": "I don't have enough information to answer that."
+  },
+  {
+    "type": "HumanMessage",
+    "content": ""
+  },
+  {
+    "type": "SystemMessage",
+    "content": "I don't have enough information to answer that."
+  }
+]

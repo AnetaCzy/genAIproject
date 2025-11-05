@@ -1,6 +1,5 @@
 fastapi
 uvicorn
-langchain
 langchain-openai
 pinecone-client
 arxiv
@@ -10,14 +9,17 @@ tqdm
 requests
 openai
 pydantic
-beautifulsoup4
 lxml
-requests
 os
 dotenv
 pinecone
 langchain_openai
 langchain
-requests
 PyPDF2
 io
+langchain_openai 
+langchain_core  
+langchain-community 
+langchain_pinecone 
+beautifulsoup4 
+tabulate
